@@ -1,4 +1,4 @@
-# Python-DS-Practics
+# Python-DS-Practice
 A collection of scripts and practice scenarios I've used in my journey into learning to leverage Python for Data Science.
 
 Will include some practice scenarios from my Advanced Analytics Certification Program, as well as script sections I find interesting, useful, or want to explore further.
